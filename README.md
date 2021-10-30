@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sevgiguclu
+- 👋 Hi, I’m Sevgi Güçlü
 - 👀 I’m interested in front-end and back-end technologies
 - 🌱 I’m currently learning react
 - 📫 How to reach me guclusevgi97@gmail.com
